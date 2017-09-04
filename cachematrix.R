@@ -1,6 +1,6 @@
 ## The objective is to write a pair of functions to determine the inverse of a 
 ## matrix, and store the inverse in cache and fetch it to save computational
-## time and effort
+## time & effort
 
 ## The function  below creates a list containing a function to
 ## 1. set the value of the matrix
